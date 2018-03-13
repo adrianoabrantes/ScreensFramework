@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #09f7ef;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.screens.Screen2Controller">
+   <children>
+      <Button fx:id="Buttton" layoutX="246.0" layoutY="178.0" mnemonicParsing="false" onAction="#headleButtonEvent" prefHeight="45.0" prefWidth="108.0" text="Screen 1" textFill="#f50a0a" />
+      <Label layoutX="274.0" layoutY="57.0" text="Screen 2" />
+   </children>
+</AnchorPane>
